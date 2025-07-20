@@ -1,4 +1,4 @@
-# webgl-aquarium
-Threejs를 활용하여 자유롭게 움직이는 물고기를 화면에 배치.
+<img width="1315" height="761" alt="image" src="https://github.com/user-attachments/assets/a08a584f-4176-4b67-a04f-2af9fddc4f00" /># webgl-aquarium
+Three.js and algoritm Boids
 
-[![Demo video](https://img.youtube.com/vi/WsU-Rq9sOqU/0.jpg)](https://www.youtube.com/watch?v=WsU-Rq9sOqU)
+<img width="1315" height="761" alt="image" src="https://github.com/user-attachments/assets/5313409f-e134-4907-9157-c5df15010ea1" />
