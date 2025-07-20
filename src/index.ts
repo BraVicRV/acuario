@@ -91,9 +91,9 @@ function initUI() {
     teamList.style.margin = '0';
     
     const members = [
-        'Sergio Raúl Choque Cormilluni',
         'Ramirez Vidal Brayam Victor',
-        'Álex Chuqui Mamani'
+        'Jon Alex Chuqui Mamani',
+        'Sergio Raúl Choque Cormilluni'
     ];
     
     members.forEach(member => {
